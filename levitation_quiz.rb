@@ -2,7 +2,7 @@
 def levitation_quiz
 	#your code here
 	loop
-	  puts "Wingardium Leviosa"
+	  puts ""
 	end
 end
 
